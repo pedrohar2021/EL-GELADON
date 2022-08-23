@@ -30,7 +30,6 @@
 
 .Logo__icone {
   position: absolute;
-  top: -15px;
 }
 
 .Sacola {
@@ -101,6 +100,7 @@
   .Logo {
     width: 100%;
   }
+
 }
 
 @media (max-width: 400px) {
@@ -114,5 +114,6 @@
 
   .Logo__titulo {
     font-size: 1.5em;
+    left: 30%;
   }
 }
